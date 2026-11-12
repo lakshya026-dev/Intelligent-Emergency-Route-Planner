@@ -1,0 +1,32 @@
+road_id,road_name,traffic_level,congestion_multiplier,time_of_day,day_of_week
+R001,Main Street,Normal,1.0,08:00,Monday
+R002,High Street,Moderate,1.5,08:00,Monday
+R003,Bridge Road,Heavy,2.5,08:00,Monday
+R004,Park Avenue,Normal,1.0,08:00,Monday
+R005,River Lane,Severe,4.0,08:00,Monday
+R006,Station Road,Moderate,1.5,08:00,Monday
+R007,Church Street,Normal,1.0,08:00,Monday
+R008,Market Square,Heavy,2.5,08:00,Monday
+R009,Castle Road,Normal,1.0,08:00,Monday
+R010,Harbor Drive,Moderate,1.5,08:00,Monday
+R001,Main Street,Heavy,2.5,17:00,Monday
+R002,High Street,Severe,4.0,17:00,Monday
+R003,Bridge Road,Heavy,2.5,17:00,Monday
+R004,Park Avenue,Moderate,1.5,17:00,Monday
+R005,River Lane,Severe,4.0,17:00,Monday
+R006,Station Road,Heavy,2.5,17:00,Monday
+R007,Church Street,Moderate,1.5,17:00,Monday
+R008,Market Square,Severe,4.0,17:00,Monday
+R009,Castle Road,Moderate,1.5,17:00,Monday
+R010,Harbor Drive,Heavy,2.5,17:00,Monday
+R001,Main Street,Normal,1.0,14:00,Sunday
+R002,High Street,Normal,1.0,14:00,Sunday
+R003,Bridge Road,Normal,1.0,14:00,Sunday
+R004,Park Avenue,Normal,1.0,14:00,Sunday
+R005,River Lane,Moderate,1.5,14:00,Sunday
+R006,Station Road,Normal,1.0,14:00,Sunday
+R007,Church Street,Normal,1.0,14:00,Sunday
+R008,Market Square,Moderate,1.5,14:00,Sunday
+R009,Castle Road,Normal,1.0,14:00,Sunday
+R010,Harbor Drive,Normal,1.0,14:00,Sunday
+
